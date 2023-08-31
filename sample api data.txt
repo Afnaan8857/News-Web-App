@@ -1,0 +1,1302 @@
+[
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Sebi streamlines process for seeking prior approval for change in control merchant bankers",
+        "description": "Under the process, the intermediary will have to make an online application to Sebi for prior approval through its intermediary portal.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-streamlines-process-for-seeking-prior-approval-for-change-in-control-merchant-bankers/articleshow/102617367.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102617596,width-1070,height-580,imgsize-6078,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-08-10T16:00:36Z",
+        "content": "New Delhi, Capital markets regulator Sebi on Thursday streamlined the procedure of obtaining prior approval for the proposed change in control of merchant bankers and bankers to an issue. The new pro… [+2464 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ambcrypto.com"
+        },
+        "author": "Suzuki Shillsalot",
+        "title": "Does India’s latest move mean support for the idea of a crypto-friendly future?",
+        "description": "India aims to revolutionize online interactions by introducing crypto token-based document signatures with Web3.",
+        "url": "https://ambcrypto.com/?p=334454",
+        "urlToImage": "https://statics.ambcrypto.com/wp-content/uploads/2023/08/ambcrypto_Prompt_An_imaginative_scene_comes_to_life_portraying__8dc6fdb4-5008-4a44-aa2f-dcc47661eb65_1200x900-1000x600.png",
+        "publishedAt": "2023-08-10T16:00:06Z",
+        "content": "<ul><li>The technology aims to enable digital document signing using crypto tokens within a native web browser. </li><li>It introduces a crypto token-based approach to revolutionize online interactio… [+2367 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Adhir Ranjan: Congress face in LS and BJP punching bag in no-trust debate - The Indian Express",
+        "description": "<ol><li>Adhir Ranjan: Congress face in LS and BJP punching bag in no-trust debate  The Indian Express\r\n</li><li>Congress' Adhir Chowdhury Suspended From Lok Sabha Over 'Misconduct'  NDTV\r\n</li><li>Adhir Ji Master At Turning Gur To Gobar: PM Modi's Dig At Cong…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9wb2xpdGljYWwtcHVsc2UvYWRoaXItcmFuamFuLWNvbmdyZXNzLWxzLWJqcC1uby10cnVzdC1kZWJhdGUtODg4NjYzNi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T16:00:03Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Neowin"
+        },
+        "author": "John Callaham",
+        "title": "India's Defence Ministry plans to replace Windows with its own Ubuntu-based Maya OS",
+        "description": "The Defence Ministry of India wants to combat cyberthreats by replacing Windows in all of its Internet-connected computers with Maya OS, an in-house developed operating system based on Ubuntu. Read more...",
+        "url": "https://www.neowin.net/news/indias-defence-ministry-plans-to-replace-windows-with-its-own-ubuntu-based-maya-os/",
+        "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2020/05/1588955793_naveed-ahmed-9dt4wutvwds-unsplash_story.jpg",
+        "publishedAt": "2023-08-10T16:00:01Z",
+        "content": "India is getting ready to make a major change in its Internet-connected computers in its critical Defence Ministry agency. A new report claims the agency will replace Windows inside all of its Intern… [+1595 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "AT&T Inc., Charter Communications Inc., and CBS Corporation Lead the Television Broadcasting Market with Impressive Growth, Projecting $353.18 Billion by 2027",
+        "description": "DUBLIN, Aug. 10, 2023 /PRNewswire/ -- The \"Television Broadcasting Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. The global television broadcasting market experienced significant growth, reaching $287.81 billion in 202…",
+        "url": "https://www.prnewswire.com/news-releases/att-inc-charter-communications-inc-and-cbs-corporation-lead-the-television-broadcasting-market-with-impressive-growth-projecting-353-18-billion-by-2027--301897775.html",
+        "urlToImage": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+        "publishedAt": "2023-08-10T16:00:00Z",
+        "content": "DUBLIN, Aug. 10, 2023 /PRNewswire/ -- The \"Television Broadcasting Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global television broadcasting market ex… [+6665 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GlobeNewswire"
+        },
+        "author": "CONSEGIC BUSINESS INTELLIGENCE PRIVATE LIMITED",
+        "title": "Booster Pump Market to Hit USD 3,402.04 Million By 2030 | Analyzes By Consegic Business Intelligence",
+        "description": "Booster Pump Market Thrives with 4.3% CAGR (2023-2030) fueled by the increasing adoption of booster pump in the chemicals industry. Booster Pump Market Thrives with 4.3% CAGR (2023-2030) fueled by the increasing adoption of booster pump in the chemicals indus…",
+        "url": "https://www.globenewswire.com/news-release/2023/08/10/2722981/0/en/Booster-Pump-Market-to-Hit-USD-3-402-04-Million-By-2030-Analyzes-By-Consegic-Business-Intelligence.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/6e523131-b99b-4d00-a24c-8c39512f4da9",
+        "publishedAt": "2023-08-10T16:00:00Z",
+        "content": "New York, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Consegic Business Intelligence analyzes B\r\nooster \r\nP\r\nump \r\nM\r\narket\r\n is expected to witness significant growth at a remarkable CAGR of 4.3% during the f… [+15883 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Star Online"
+        },
+        "author": "The Star Online",
+        "title": "Killed by her own aunt for her jewellery",
+        "description": "A WOMAN in India who killed her niece for her jewellery in a murder that shocked the country has been sentenced to life imprisonment, Malaysia Nanban reported. Read full story",
+        "url": "https://www.thestar.com.my/news/nation/2023/08/11/killed-by-her-own-aunt-for-her-jewellery",
+        "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/11/2225339.jpg",
+        "publishedAt": "2023-08-10T16:00:00Z",
+        "content": "Compiled by CHOW HOW BAN, AUSTIN CAMOENS and R. ARAVINTHAN\r\nA WOMAN in India who killed her niece for her jewellery in a murder that shocked the country has been sentenced to life imprisonment, Malay… [+1068 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "SELENA GOMEZ ANNOUNCES INAUGURAL RARE IMPACT FUND BENEFIT SUPPORTING YOUTH MENTAL HEALTH",
+        "description": "Selena Gomez will host her first annual Rare Impact Fund Benefit: A Night of Radiance & Reflection on October 4 in Los Angeles featuring Martin Short and Marshmello LOS ANGELES, Aug. 10, 2023 /PRNewswire/ -- Today, Selena Gomez announced that she will host th…",
+        "url": "https://www.prnewswire.com/news-releases/selena-gomez-announces-inaugural-rare-impact-fund-benefit-supporting-youth-mental-health-301897219.html",
+        "urlToImage": "https://mma.prnewswire.com/media/1999793/Rare_Beauty_RIF_LOGO.jpg?p=facebook",
+        "publishedAt": "2023-08-10T16:00:00Z",
+        "content": "Selena Gomez will host her first annual Rare Impact Fund Benefit: A Night of Radiance &amp; Reflection on October 4 in Los Angeles featuring Martin Short and Marshmello\r\nLOS ANGELES, Aug. 10, 2023 /P… [+4181 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Democracy works best in environment of pluralism: Narayana Murthy",
+        "description": "\"Democracy works best in an environment of pluralism where every citizen has the freedom to practice one's own belief and faith without imposing it on others, without hampering the progress of others,\" Murthy said at the convocation of Techno India University.",
+        "url": "https://economictimes.indiatimes.com/news/india/democracy-works-best-in-environment-of-pluralism-narayana-murthy/articleshow/102617348.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102617368,width-1070,height-580,imgsize-128208,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:59:57Z",
+        "content": "Infosys co-founder N R Narayana Murthy on Thursday said democracy works best in an environment of pluralism, where every citizen has the freedom to practice one's own belief and faith without imposin… [+2080 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT",
+        "title": "Russia proposes visa-free travel deal to India",
+        "description": "Russia is negotiating a deal with India to allow tourists in groups to visit each other’s countries visa-free Read Full Article at RT.com",
+        "url": "https://www.rt.com/russia/581106-russia-visa-free-india-tourist-deal/",
+        "urlToImage": "https://mf.b37mrtl.ru/files/2023.08/article/64d4f91b85f54014b111f623.jpg",
+        "publishedAt": "2023-08-10T15:58:19Z",
+        "content": "Russia has proposed a regime with India that will allow tourists from both nations to visit each other’s countries without visas if they travel in organized groups, Economic Development Minister Maks… [+1545 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": null,
+        "title": "Letters to Editor",
+        "description": "Letters to Editor",
+        "url": "https://www.thehindubusinessline.com/opinion/letters/letters-to-editor/article67181505.ece",
+        "urlToImage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
+        "publishedAt": "2023-08-10T15:57:38Z",
+        "content": "RBI maintains neutrality\r\nApropos RBI MPC outcome: Repo rate unchanged at 6.5% (August 10), this is the third consecutive time that the six-member Monetary Policy Committee (MPC) has kept the repo ra… [+3126 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Indian Express"
+        },
+        "author": "Express News Service",
+        "title": "Karnataka’s Gruha Lakshmi scheme launch postponed to Aug 27, Shivakumar says move will let more women enrol",
+        "description": "Speaking to the media, Karnataka Deputy Chief Minister D K Shivakumar said a total of 1.05 crore women have registered for the scheme till date.",
+        "url": "https://indianexpress.com/article/cities/bangalore/karnataka-gruha-lakshmi-scheme-launch-postponed-shivakumar-8886610/",
+        "urlToImage": "https://images.indianexpress.com/2023/08/d-k-shivakumar-3.jpg",
+        "publishedAt": "2023-08-10T15:56:31Z",
+        "content": "The Gruha Lakshmi scheme of the Karnataka government, which promises Rs 2,000 to the women heads of the households, will now be launched across the state on August 27 instead of August 20, Deputy Chi… [+747 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Twesh Mishra",
+        "title": "PAC calls for stricter measures while undertaking railways maintenance works",
+        "description": "The Public Accounts Committee (PAC) of India calls for strict safety measures and adherence to Joint Procedure Orders (JPO) by Indian Railways, following procedural lapses during maintenance works that led to cable faults. The PAC report also highlights that …",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/pac-calls-for-stricter-measures-while-undertaking-railways-maintenance-works/articleshow/102617234.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102617213,width-1070,height-580,imgsize-37790,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:55:17Z",
+        "content": "Carrier 1.5 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,High Density Filter, Auto Cleanser, 2023 Model,ESTER Exi - CAI18ER3R32F0,White)\r\nBuy Now"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "AllAfrica - Top Africa News"
+        },
+        "author": null,
+        "title": "SA Ready to Host Brics Summit",
+        "description": "[SAnews.gov.za] It's all systems go for the 15th BRICS (Brazil, Russia, India, China and South Africa) Summit, which will be held in Johannesburg later this month.",
+        "url": "https://allafrica.com/stories/202308100437.html",
+        "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+        "publishedAt": "2023-08-10T15:54:02Z",
+        "content": "It's all systems go for the 15th BRICS (Brazil, Russia, India, China and South Africa) Summit, which will be held in Johannesburg later this month.\r\nTaking place from 22 to 24 August, government has … [+2987 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Techtarget.com"
+        },
+        "author": "Rob Wright",
+        "title": "Kemba Walden: We need to secure open source software",
+        "description": "During her Black Hat 2023 keynote, the acting national cyber director said the White House wants to develop realistic policies to improve the security of open source software.",
+        "url": "https://www.techtarget.com/searchsecurity/news/366547952/Kemba-Walden-We-need-to-secure-open-source-software",
+        "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a254815015.jpg",
+        "publishedAt": "2023-08-10T15:54:00Z",
+        "content": "LAS VEGAS -- The White House is moving to address the looming security concerns around open source software.\r\nKemba Walden, acting national cyber director in the Office of the National Cyber Director… [+3931 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "‘Shocking bid to manipulate justice system’: Madras High Court on Ponmudy’s acquittal - India Today",
+        "description": "<ol><li>‘Shocking bid to manipulate justice system’: Madras High Court on Ponmudy’s acquittal  India Today\r\n</li><li>Madras High Court takes up suo motu revision of Minister Ponmudy’s acquittal from disproportionate assets case  The Hindu\r\n</li><li>\"Most dama…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2xhdy10b2RheS9zdG9yeS90bi1taW5pc3Rlci1wb25tdWR5LWFjcXVpdHRhbC1zaG9ja2luZy1hdHRlbXB0LW1hbmlwdWxhdGUtanVzdGljZS1zeXN0ZW0tbWFkcmFzLWhpZ2gtY291cnQtMjQxOTI3My0yMDIzLTA4LTEw0gGbAWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vYW1wL2xhdy10b2RheS9zdG9yeS90bi1taW5pc3Rlci1wb25tdWR5LWFjcXVpdHRhbC1zaG9ja2luZy1hdHRlbXB0LW1hbmlwdWxhdGUtanVzdGljZS1zeXN0ZW0tbWFkcmFzLWhpZ2gtY291cnQtMjQxOTI3My0yMDIzLTA4LTEw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:53:59Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "V Anantha  Nageswaran & Deeksha Supyaal  Bisht",
+        "title": "Multidimensional Poverty Index is a holistic measure",
+        "description": "The govt providing for more goods and services supplements one’s purchasing power and creates massive societal gains",
+        "url": "https://www.thehindubusinessline.com/opinion/multidimensional-poverty-index-is-a-holistic-measure/article67181444.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/d6b73/article67181438.ece/alternates/LANDSCAPE_1200/9712_16-6-2019_15-19-30_1_DSC_6686.JPG",
+        "publishedAt": "2023-08-10T15:52:54Z",
+        "content": "An editorial in this newspaper, Chasing a mirage: Govt alone cant handle multidimensional poverty (August 8), argues that the national Multidimensional Poverty Index (MPI) includes too many indicator… [+2985 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "mint",
+        "title": "Mangroves offer a vital shield against climate change",
+        "description": "Mangrove forests not only act as barriers against natural disasters, they’re estimated to sequester 22.86 gigatonnes of CO2 globally, about half the yearly emissions of fossil fuels, land-use and industry.",
+        "url": "https://www.livemint.com/opinion/online-views/mangroves-offer-a-vital-shield-against-climate-change-11691679926470.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/World-Largest-Bacterium-0_1656032138903_1691682590585.jpg",
+        "publishedAt": "2023-08-10T15:52:45Z",
+        "content": "World Mangrove Day was observed on 26 July. The existence of such a Day speaks of the strategic value of mangrove forests, which make up only about 0.15% of Indias land area but provide numerous bene… [+5305 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "seattletimes.com",
+        "title": "Russia is to launch its first mission to the moon in almost 50 years",
+        "description": "Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land a lunar craft this month.",
+        "url": "https://biztoc.com/x/039b091f9d3c060c",
+        "urlToImage": "https://c.biztoc.com/p/039b091f9d3c060c/s.webp",
+        "publishedAt": "2023-08-10T15:52:12Z",
+        "content": "Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land a lunar craft this month.\r\nThis story appe… [+26 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Karan Deol Sends Big Love To Dad Sunny Deol Ahead Of Gadar 2's Release",
+        "description": "Dad Sunny Deol replied to the post with a, \"Love you my son\"",
+        "url": "https://www.ndtv.com/entertainment/karan-deol-sends-big-love-to-dad-sunny-deol-ahead-of-gadar-2s-release-4287720",
+        "urlToImage": "https://c.ndtvimg.com/2023-08/4qmma03g_priyanka-_625x300_10_August_23.jpg",
+        "publishedAt": "2023-08-10T15:51:57Z",
+        "content": "Image was shared on Instagram. (courtesy: imkarandeol)\r\nNew Delhi: Karan Deol's shout out to his dad Sunny Deol before the release of the latter's film Gadar 2, is all heart. Karan Deol, the elder so… [+2556 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "INDIA bloc misusing Manipur issue as its launchpad: Jyotiraditya Scindia",
+        "description": "BJP leader and Civil Aviation minister Jyotiraditya Scindia accused opposition bloc INDIA of misusing the violence in Manipur as a \"launchpad\" for itself. Speaking during the no-confidence motion in Parliament, Scindia said the INDIA (Indian National Developm…",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/india-bloc-misusing-manipur-issue-as-its-launchpad-jyotiraditya-scindia/articleshow/102617165.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102617218,width-1070,height-580,imgsize-68126,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:51:39Z",
+        "content": "BJP leader and Civil Aviation minister Jyotiraditya Scindia accused opposition bloc INDIA of misusing the violence in Manipur as a \"launchpad\" for itself. Speaking during the no-confidence motion in … [+1976 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "EMMA BURROWS Associated Press",
+        "title": "Russia is to launch its first mission to the moon in almost 50 years",
+        "description": "Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land a lunar craft this month",
+        "url": "https://abcnews.go.com/Technology/wireStory/russia-launch-mission-moon-50-years-102168314",
+        "urlToImage": "https://s.abcnews.com/images/International/wirestory_286bf3d8d3b30790591efc113438e216_16x9_992.jpg",
+        "publishedAt": "2023-08-10T15:50:35Z",
+        "content": "LONDON -- Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land a lunar craft this month. \r\nThe … [+3124 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "EMMA BURROWS Associated Press",
+        "title": "Russia is to launch its first mission to the moon in almost 50 years",
+        "description": "Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land a lunar craft this month",
+        "url": "https://abcnews.go.com/International/wireStory/russia-launch-mission-moon-50-years-102168305",
+        "urlToImage": "https://s.abcnews.com/images/International/wirestory_286bf3d8d3b30790591efc113438e216_16x9_992.jpg",
+        "publishedAt": "2023-08-10T15:50:29Z",
+        "content": "LONDON -- Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land a lunar craft this month. \r\nThe … [+3124 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GSMArena.com"
+        },
+        "author": "Ivan",
+        "title": "IDC: India's wearable market grew 53% in the first half of 2023",
+        "description": "India's smart wearables market grew rapidly in the first half of 2023. Per IDC's latest numbers, the sector recorded a 53% year-over-year increase in sales.\n\nOver 57.8 million smart wearables were shipped in 1H23 with smartwatches making a big jump in popular…",
+        "url": "https://www.gsmarena.com/idc_indias_wearable_market_grew_53_in_the_first_half_of_2023-news-59508.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/india-wearables/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2023-08-10T15:49:01Z",
+        "content": "India's smart wearables market grew rapidly in the first half of 2023. Per IDC's latest numbers, the sector recorded a 53% year-over-year increase in sales.\r\nOver 57.8 million smart wearables were sh… [+969 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "mint",
+        "title": "Import licensing for e-devices wields neither carrot nor stick",
+        "description": "Using just incentives and tariffs would’ve kept uncertainty down",
+        "url": "https://www.livemint.com/opinion/online-views/import-licensing-for-e-devices-wields-neither-carrot-nor-stick-11691679886891.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/2-0-126271503-MK-AY520-0_1681893639481_1691682394992.jpg",
+        "publishedAt": "2023-08-10T15:48:57Z",
+        "content": "Indias decision to license the import of computers and tablets looks more like bureaucratic desperation than a well-considered industrial policy. The next-day move to push implementation to November … [+4737 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "PTI",
+        "title": "Sanofi India Q2 results: Net profit rises 2.5% to ₹123 crore",
+        "description": "Revenue from operations rose to  ₹706 crore in the period under review from  ₹699 crore in the same period last year, Sanofi India said",
+        "url": "https://www.livemint.com/companies/company-results/sanofi-india-q2-results-net-profit-rises-2-5-to-rs-123-crore-11691682071478.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/FILES-FRANCE-ECONOMY-PHARMACEUTICAL-SANOFI-LOGO-0_1691682211910_1691682235811.jpg",
+        "publishedAt": "2023-08-10T15:48:37Z",
+        "content": "Drug firm Sanofi India on Thursday said its net profit increased by 2.5% to 123 crore for the second quarter ended on June 30, 2023. The company reported a net profit of 120 crore in the April-June q… [+19 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "PTI",
+        "title": "Sanofi India Q1 results: Net profit rises 2.5% to ₹123 crore",
+        "description": "Revenue from operations rose to  ₹706 crore in the period under review from  ₹699 crore in the same period last year, Sanofi India said",
+        "url": "https://www.livemint.com/companies/company-results/sanofi-india-q1-results-net-profit-rises-2-5-to-rs-123-crore-11691682071478.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/FILES-FRANCE-ECONOMY-PHARMACEUTICAL-SANOFI-LOGO-0_1691682211910_1691682235811.jpg",
+        "publishedAt": "2023-08-10T15:48:37Z",
+        "content": "Drug firm Sanofi India on Thursday said its net profit increased by 2.5% to 123 crore for the second quarter ended on June 30, 2023. The company reported a net profit of 120 crore in the April-June q… [+19 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Dagospia.com"
+        },
+        "author": null,
+        "title": "PRIVATIZZAZIONI ALLA GIAPPONESE – È PARTITA L’OFFERTA PUBBLICA D’ACQUISTO DI TOSHIBA DA PARTE DI UN GRUPPO DI 20 AZIENDE NIPPONICHE, GUIDATO DA JAPAN INDUSTRIAL PARTNERS – L'OPA MIRA A RITIRARE IL TITOLO DAL MERCATO E VALUTA IL GRUPPO DELL'ELETTRONICA 14 MILIARDI DI DOLLARI – UNA SVOLTA PER LA SOCIETÀ, CHE DA 74 ANNI È PUBBLICA E DEVE RISANARE I CONTI DOPO IL TRACOLLO DEL 2015, CAUSATO DAL FALLIMENTO DELLA CONTROLLATA STATUNITENSE WESTINGHOUSE…",
+        "description": "Estratto dell'articolo di Valeria Sforzini per il “Corriere della Sera”   toshiba È partita l’offerta pubblica d’acquisto di Toshiba da parte di un gruppo di investitori giapponesi guidato da Jip, Japan Industrial Partners, consorzio composto da oltre 20 azie…",
+        "url": "https://www.dagospia.com/rubrica-4/business/privatizzazioni-giapponese-ndash-nbsp-partita-363347.htm",
+        "urlToImage": "https://cdn-static.dagospia.com/img/patch/08-2017/toshiba-928299.jpg",
+        "publishedAt": "2023-08-10T15:48:00Z",
+        "content": "Estratto dell'articolo di Valeria Sforzini per il “Corriere della Sera”\r\ntoshiba\r\nÈ partita l’offerta pubblica d’acquisto di Toshiba da parte di un gruppo di investitori giapponesi guidato da Jip, Ja… [+1651 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Forum Gandhi",
+        "title": "Air India’s new logo is a window to the future and a nod to its storied past",
+        "description": "Would the Maharajah survive? That was the question on everyone’s lips ever since the Tatas announced they were rebranding Air India.",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/air-indias-new-logo-is-a-window-to-the-future-and-a-nod-to-its-storied-past/article67181449.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/xisul2/article67181434.ece/alternates/LANDSCAPE_1200/PTI08_10_2023_000314B.jpg",
+        "publishedAt": "2023-08-10T15:47:50Z",
+        "content": "Would the Maharajah survive? That was the question on everyones lips ever since the Tatas announced they were rebranding Air India. \r\nOn Thursday, as Air India unveiled its new brand identity, the su… [+2371 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Forum Gandhi",
+        "title": "Air India’s new logo is a window to the future and a nod to its storied past",
+        "description": "Would the Maharajah survive? That was the question on everyone’s lips ever since the Tatas announced they were rebranding Air India.",
+        "url": "https://www.thehindubusinessline.com/news/air-indias-new-logo-is-a-window-to-the-future-and-a-nod-to-its-storied-past/article67181449.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/xisul2/article67181434.ece/alternates/LANDSCAPE_1200/PTI08_10_2023_000314B.jpg",
+        "publishedAt": "2023-08-10T15:47:50Z",
+        "content": "Would the Maharajah survive? That was the question on everyones lips ever since the Tatas announced they were rebranding Air India. \r\nOn Thursday, as Air India unveiled its new brand identity, the su… [+2164 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GlobeNewswire"
+        },
+        "author": "ReportLinker",
+        "title": "Enterprise Wlan Market Size & Share Analysis - Growth Trends & Forecasts (2023 - 2028)",
+        "description": "The Enterprise WLAN Market size is expected to grow from USD 19.54 billion in 2023 to USD 35.69 billion by 2028, at a CAGR of 12.80% during the forecast period (2023-2028). The Enterprise WLAN market continues to grow rapidly, emphasizing the importance of wi…",
+        "url": "https://www.globenewswire.com/news-release/2023/08/10/2722963/0/en/Enterprise-Wlan-Market-Size-Share-Analysis-Growth-Trends-Forecasts-2023-2028.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/3e0b82c2-02d7-44c8-b22f-561e0f321f39",
+        "publishedAt": "2023-08-10T15:46:00Z",
+        "content": "New York, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Enterprise Wlan Market Size &amp; Share Analysis - Growth Trends &amp; Forecasts (2023 - 2028)\" - htt… [+7346 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Caught on cam: Cow brutally attacks 11-year-old girl in Chennai, lifts her and throws her onto road - Times of India",
+        "description": "<ol><li>Caught on cam: Cow brutally attacks 11-year-old girl in Chennai, lifts her and throws her onto road  Times of India\r\n</li><li>In Terrifying Video, Chennai Schoolgirl Returning Home Brutally Attacked By Cow  NDTV\r\n</li><li>WATCH | Cow Mauls 9-year-old …",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMisQFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS92aWRlb3MvdG9pLW9yaWdpbmFsL2NhdWdodC1vbi1jYW0tY293LWJydXRhbGx5LWF0dGFja3MtMTEteWVhci1vbGQtZ2lybC1pbi1jaGVubmFpLWxpZnRzLWhlci1hbmQtdGhyb3dzLWhlci1vbnRvLXJvYWQvdmlkZW9zaG93LzEwMjYxNzAxMy5jbXPSAbUBaHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vdmlkZW9zL3RvaS1vcmlnaW5hbC9jYXVnaHQtb24tY2FtLWNvdy1icnV0YWxseS1hdHRhY2tzLTExLXllYXItb2xkLWdpcmwtaW4tY2hlbm5haS1saWZ0cy1oZXItYW5kLXRocm93cy1oZXItb250by1yb2FkL2FtcF92aWRlb3Nob3cvMTAyNjE3MDEzLmNtcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:45:08Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tudocelular.com"
+        },
+        "author": "Tudocelular.com",
+        "title": "De volta à Índia: Honor retornará ao país após 3 anos com ex-CEO da realme",
+        "description": "Veja qual deve ser o primeiro celular lançado pela Honor na Índia após 3 anos.",
+        "url": "https://www.tudocelular.com/mercado/noticias/n210042/honor-retornara-india-com-ex-ceo-da-realme.html",
+        "urlToImage": "https://t2.tudocdn.net/674191?w=1920",
+        "publishedAt": "2023-08-10T15:43:00Z",
+        "content": "A Honor não está mais presente no mercado indiano desde 2020, o que significa que ela não lança nenhum celular diretamente no mercado há cerca de 3 anos. Entretanto, isto está prestes a mudar com o r… [+2001 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "“Ye bolne vale kon hain…” PM Modi’s sharp reply to Rahul Gandhi’s “Bharat Maata Ke Hatyaare” remark - YouTube",
+        "description": "<ol><li>“Ye bolne vale kon hain…” PM Modi’s sharp reply to Rahul Gandhi’s “Bharat Maata Ke Hatyaare” remark  YouTube\r\n</li><li>'Indira Gandhi govt gave…': PM Modi in Lok Sabha blames Congress for partition  Hindustan Times\r\n</li><li>BJP Launches Song To Count…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vbS55b3V0dWJlLmNvbS93YXRjaD92PXN3UHJYSjNtN1ZN0gEA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:42:39Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newsonjapan.com"
+        },
+        "author": null,
+        "title": "China resumes group tours to 78 more nations and regions, including Japan",
+        "description": "The Chinese government has allowed the resumption of group tours by its citizens to 78 more countries and regions. The destinations include Japan, South Korea, India, the United States, Australia, Britain and Germany.\n (NHK)",
+        "url": "https://newsonjapan.com/html/newsdesk/article/138276.php",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:42:17Z",
+        "content": "China announced the lifting of the ban on Thursday. It had been imposed from January 2020 to counter the COVID-19 pandemic.\r\nChina began resuming group tours to overseas destinations in stages starti… [+704 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "ft.com",
+        "title": "India approves Sony-Zee merger to form nation’s biggest media company",
+        "description": "Japanese entertainment giant will have 51% stake in venture with more than 70 TV channels",
+        "url": "https://biztoc.com/x/905e18b2653943c4",
+        "urlToImage": "https://c.biztoc.com/217/og.png",
+        "publishedAt": "2023-08-10T15:42:03Z",
+        "content": "Japanese entertainment giant will have 51% stake in venture with more than 70 TV channels\r\nThis story appeared on ft.com, 2023-08-10."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mathrubhumi.com"
+        },
+        "author": "Mathrubhumi",
+        "title": "വീണ്ടും കോവിഡ് കേസുകള്‍ ഉയരുന്നു, വ്യാപനത്തിന് പിന്നില്‍ ഇ.ജി.5. വകഭേദം, covid eris variant, covid new variant , covid death rate, covid latest news, covid india",
+        "description": "ഒരിടവേളയ്ക്കു ശേഷം ലോകത്തിന്റെ പലഭാഗങ്ങളിലും കോവിഡ് കേസുകൾ വീണ്ടും ഉയരുന്നുണ്ട്. ഇക്കുറി ഒമിക്രോണിന്റെ പുതിയ ഉപവകഭേദമായ ഇ.ജി.5. ആണ് വ്യാപനത്തിന് കാരണമായിരിക്കുന്നത്. എറിസ് എന്നുകൂടി അറിയപ്പെടുന്ന ഈ വകഭേദമാണ് അമേരിക്കയിലും യു.കെ.യിലുമൊക്കെ തീവ്രവ്യാപനത്തിന് ക…",
+        "url": "https://www.mathrubhumi.com/health/news/covid-variant-eg-5-dubbed-eris-1.8809192",
+        "urlToImage": "https://www.mathrubhumi.com/image/contentid/policy:1.8809211:1691680442/bella%20hadid%20(1).jpg?$p=33087be&f=16x9&w=1080&q=0.8",
+        "publishedAt": "2023-08-10T15:41:34Z",
+        "content": "‍ . ..5. . .. . . \r\n‍ XBB . XBB- 20 ‍ 45 ‍ . , , , ‍, , , ‍. \r\n ‍ ‍ ‍ . ‍ ‍ . EG.5 5G.5.1. . \r\n ‍ ‍ ‍ . ‍ ‌‍ ‍ ‍ . \r\n ‍ EG.5 . , , ‍, , ‌, , ., ‍, ‍‍, ‌‍ . \r\n . ‍ 70 ‍ 115 ‍. ‍ ‍ ."
+    },
+    {
+        "source": {
+            "id": "independent",
+            "name": "Independent"
+        },
+        "author": "Emma Burrows",
+        "title": "Russia is to launch its first mission to the moon in almost 50 years",
+        "description": "Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land a lunar craft this month",
+        "url": "https://www.independent.co.uk/news/russia-ap-european-space-agency-vladimir-putin-london-b2391007.html",
+        "urlToImage": "https://static.independent.co.uk/2023/08/10/16/Russia_Moon_Lander_99518.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2023-08-10T15:40:34Z",
+        "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nRussia is scheduled to launch its first mission to t… [+3261 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "EMMA BURROWS",
+        "title": "Russia is to launch its first mission to the moon in almost 50 years",
+        "description": "Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land ...",
+        "url": "https://finance.yahoo.com/news/russia-launch-first-mission-moon-154033851.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oopXp2ISmJzoGJ.KkRq3YA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/c92fd0035199f44a2cf56b44ec54a627",
+        "publishedAt": "2023-08-10T15:40:33Z",
+        "content": "LONDON (AP) Russia is scheduled to launch its first mission to the moon in nearly 50 years on Friday, pitting it in a space race with India which is also aiming to land a lunar craft this month.\r\nThe… [+3125 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Roshni Agarwal",
+        "title": "Ahead of Market: 10 things that will determine D-Street action on Friday",
+        "description": "A small negative candle was formed on the daily chart with minor upper and lower shadows. Technically, this pattern indicates sideways movement in the market with a weak bias at the crucial resistance of 19,650 levels",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-determine-d-street-action-on-friday/articleshow/102616902.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102616907,width-1070,height-580,imgsize-65986,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-08-10T15:40:24Z",
+        "content": "Indian equities, amid RBIs hawkish outlook on inflation, ended on a weak note. Nifty slipped below the 19,600 mark and ended at 19,543, down 89 points, whereas the Sensex settled with a loss of 308 p… [+5009 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Rediff.com"
+        },
+        "author": "sports@rediff.co.in (Chitrangada Datta Chaudhuri)",
+        "title": "Whatever happened with me isn't right: Rani Rampal",
+        "description": "Former India captain Rani Rampal on Thursday hit out at women's hockey team chief coach Janneke Schopmann.",
+        "url": "https://www.rediff.com/sports/report/whatever-happened-with-me-in-the-past-two-years-isnt-right-rani-lashes-out/20230810.htm",
+        "urlToImage": "https://im.rediff.com/sports/2023/aug/10rani.jpg",
+        "publishedAt": "2023-08-10T15:40:22Z",
+        "content": "IMAGE: After being named as chief coach of the sub-junior girls team, former skipper Rani Rampal lashed out at India coach for being ignored for the past two years. Photograph: Kind courtesy Rani Ram… [+2030 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gadgets360.com"
+        },
+        "author": "Reuters",
+        "title": "Russia to Launch Lunar Spacecraft in Race to Find Water on Moon Against Chandrayaan-3",
+        "description": "Russia made its final preparations on Thursday for the launch of its first lunar landing spacecraft in 47 years as it races to be the first power to make a soft landing on the south pole of the moon which may hold significant deposits of water ice. For centur…",
+        "url": "https://www.gadgets360.com/chandrayaan/news/russia-launch-lunar-mission-race-find-water-on-moon-against-chandrayaan-3-4287652",
+        "urlToImage": "https://i.gadgets360cdn.com/large/lunar_mission_russia_against_chandrayaan-3_reuters_1691681937079.jpg",
+        "publishedAt": "2023-08-10T15:39:21Z",
+        "content": "Russia made its final preparations on Thursday for the launch of its first lunar landing spacecraft in 47 years as it races to be the first power to make a soft landing on the south pole of the moon … [+4438 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aajtak.in"
+        },
+        "author": "देवाशीष भारती",
+        "title": "मालगाड़ी पर चढ़े युवक को लगा 25 हजार वोल्ट्स का झटका, 95 फीसदी झुलसा",
+        "description": "तेज करंट लगते ही तेज आवाज के साथ चिंगारी निकली और युवक के शरीर में आग लग गई. वह मालगाड़ी की छत पर ही गिर गया. धमाके की आवाज सुन के रेलवे कर्मचारी और स्टेशन पर मौजूद लोग मालगाड़ी के पास पहुंचे. मालगाड़ी के ऊपर पड़े हुए युवक के शरीर में आग लगी हुई थी.",
+        "url": "https://www.aajtak.in/india/jharkhand/story/man-electrocuted-after-climbed-on-the-roof-of-goods-train-1755127-2023-08-10",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202308/jamtara_0-sixteen_nine.jpg",
+        "publishedAt": "2023-08-10T15:38:56Z",
+        "content": "Copyright © 2023 Living Media India Limited. For reprint rights: Syndications Today"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aajtak.in"
+        },
+        "author": "मृगांक शेखर",
+        "title": "लोकसभा में विपक्ष की मौजूदगी तक मणिपुर पर चुप क्यों रहे पीएम मोदी?",
+        "description": "प्रधानमंत्री नरेंद्र मोदी ने पांच बज कर आठ मिनट पर अपना भाषण शुरू किया, लेकिन मणिपुर को छोड़ कर तमाम बातें करते रहे. ऐसा लगा कि जैसे वो विपक्ष के धैर्य का इम्तिहान ले रहे हों. या कहें कि विपक्ष को उकसा रहे हों.",
+        "url": "https://www.aajtak.in/opinion-analysis-/story/pm-narendra-modi-no-confidence-motion-speech-analysis-silence-on-manipur-india-opposition-alliance-ntc-1755106-2023-08-10",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202308/untitled_design_-_2023-08-10t213950.547-sixteen_nine.png",
+        "publishedAt": "2023-08-10T15:38:48Z",
+        "content": "Copyright © 2023 Living Media India Limited. For reprint rights: Syndications Today"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aajtak.in"
+        },
+        "author": "aajtak.in",
+        "title": "''NDA में घमंड के दो I पिरोकर बना दिया INDIA'', पीएम मोदी का बड़ा हमला",
+        "description": "पीएम मोदी ने अविश्वास प्रस्ताव के दौरान विपक्षी गठबंधन पर बड़ा आरोप लगाया. उन्होंने कहा कि कांग्रेस की मुसीबत ऐसी है कि खुद को जिंदा रखने के लिए इनको NDA का ही सहारा लेना पड़ा. लेकिन आदत के मुताबिक घमंड का जो I है वह इनको छोड़ता नहीं है, इनके NDA के साथ दो I …",
+        "url": "https://www.aajtak.in/india/politics/video/no-confidence-motion-2023-pm-modi-speech-in-parliament-attacks-opposition-name-india-claiming-with-nda-1755095-2023-08-10",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202308/pm-modi-no-confidence-motion-inida-alliance-sixteen_nine.png",
+        "publishedAt": "2023-08-10T15:38:38Z",
+        "content": ". NDA . I , NDA I . I 26 , I . . \r\n During the no-confidence motion, PM Modi made a big allegation about the opposition alliance. He said that the problem of Congress is such that to keep itself aliv… [+140 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Indian Express"
+        },
+        "author": "ENS Economic Bureau",
+        "title": "Conditions favourable for private investment to pick up: RBI Governor",
+        "description": "RBI Governor Shaktikanta Das said key sectors including iron and steel and automobiles, are already witnessing private investments.",
+        "url": "https://indianexpress.com/article/business/conditions-favourable-for-private-investment-to-pick-up-rbi-governor-8886546/",
+        "urlToImage": "https://images.indianexpress.com/2023/08/RBI-guv.jpg",
+        "publishedAt": "2023-08-10T15:38:10Z",
+        "content": "The Reserve Bank of India (RBI) Governor Shaktikanta Das on Thursday said with strong balance sheets of banks and corporates, private capex is likely to gather pace. He said key sectors including iro… [+2528 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aajtak.in"
+        },
+        "author": "नीतेश श्रीवास्तव",
+        "title": "टॉफी दिलाने के बहाने 6 साल की मासूम बच्ची को बुलाया, फिर घर ले जाकर किया रेप",
+        "description": "फेतहपुर जिले में एक मासूम बच्ची के साथ रेप का मामला सामने आया है. आरोपी मासूम को टॉफी दिलाने के बहाने अपने घर ले गया और उसके साथ रेप की वारदात को अंजाम दिया. आरोपी के खिलाफ बलात्कार व पॉस्को अधिनियम के तहत अभियोग पंजीकृत किया गया है. अभियुक्त को गिरफ्तार कर उ…",
+        "url": "https://www.aajtak.in/uttar-pradesh/story/6-year-old-minor-girl-police-arrested-accused-fatehpur-uttar-pradesh-lclar-1755105-2023-08-10",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202308/rape_5-sixteen_nine.jpg",
+        "publishedAt": "2023-08-10T15:38:10Z",
+        "content": "Copyright © 2023 Living Media India Limited. For reprint rights: Syndications Today"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheGrio"
+        },
+        "author": "Associated Press",
+        "title": "Rainforest nations in Africa and Asia join Amazon summit to discuss its preservation",
+        "description": "Summit leaders signed a declaration Tuesday in Brazil laying out economic development plans while preventing the Amazon’s demise “from reaching\nThe post Rainforest nations in Africa and Asia join Amazon summit to discuss its preservation appeared first on The…",
+        "url": "http://thegrio.com/2023/08/10/rainforest-nations-in-africa-and-asia-join-amazon-summit-to-discuss-its-preservation/",
+        "urlToImage": "https://thegrio.com/wp-content/uploads/2023/08/BrazilianEnvironmentMinisterMarinaSilva.jpg",
+        "publishedAt": "2023-08-10T15:38:04Z",
+        "content": "Summit leaders signed a declaration Tuesday in Brazil laying out economic development plans while preventing the Amazon's demise \"from reaching a point of no return.\"\r\nBELEM, Brazil (AP) Brazils Amaz… [+6802 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "USA TODAY, Claire Thornton, USA TODAY",
+        "title": "'Burned down to ashes': Why devastated Lahaina Town is such a cherished place on Maui",
+        "description": "Before Hawaii became a U.S. territory in the late 1800s, Lahaina was the capital of the Kingdom of Hawaii. The town is a beloved destination.",
+        "url": "https://www.usatoday.com/story/news/nation/2023/08/10/lahaina-town-destroyed-maui-wildfires-what-to-know/70564782007/",
+        "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/10/USAT/70563863007-ap-23222056688533.jpg?auto=webp&crop=5662,3196,x4,y222&format=pjpg&width=1200",
+        "publishedAt": "2023-08-10T15:37:53Z",
+        "content": "After Maui's Lahaina Town was razed by fire Tuesday night, residents and visitors are mourning the loss of cultural and religious sites that trace their roots back centuries.\r\nMore than 250 structure… [+3855 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": null,
+        "title": "MPC is right in deciding to look through recent spikes in food prices",
+        "description": "Vegetable prices are notoriously fickle and pegging rate decisions to seasonal eruptions have caused grief to RBI in the past",
+        "url": "https://www.thehindubusinessline.com/opinion/editorial/mpc-is-right-in-deciding-to-look-through-recent-spikes-in-food-prices/article67180571.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/43zwg5/article67181395.ece/alternates/LANDSCAPE_1200/10216_28_7_2023_15_49_28_1_28_07_2023_TOMATOES.JPG",
+        "publishedAt": "2023-08-10T15:36:36Z",
+        "content": "Interest rates may not rise sharply from here, nor will they decline anytime soon. This is the key message from the Reserve Bank of India (RBI) after its latest monetary policy review. In a widely an… [+2579 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "mint",
+        "title": "We should take a holistic look at transportation safety",
+        "description": "Right now we have different authorities for the safety of our rail, road, air and waterways. Let’s take a whole-of-government approach that would not get bogged down by turf overlaps.",
+        "url": "https://www.livemint.com/opinion/online-views/we-should-take-a-holistic-look-at-transportation-safety-11691679595703.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/20230704-LKO-DGP-MN-Vande-Bharat-Train-009-0_1689071876911_1691681590070.jpg",
+        "publishedAt": "2023-08-10T15:35:52Z",
+        "content": "Recently, a meme was circulating on WhatsApp about a hullabaloo over the death of five rich individuals who went deep into the ocean to view the ruins of the Titanic. Simultaneously, it spoke about i… [+5275 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "\"Though They Dealt Tribal Miscreants With Hard Hand...\": 10 Kuki MLAs Ask PM Not To Remove Assam Rif",
+        "description": "Ten Kuki MLAs have requested Prime Minister Narendra Modi not to remove the Assam Rifles (AR) from Manipur.",
+        "url": "https://www.ndtv.com/india-news/though-they-dealt-tribal-miscreants-with-hard-hand-10-kuki-mlas-ask-pm-narendra-modi-not-to-remove-assam-rifles-from-manipur-4287646",
+        "urlToImage": "https://c.ndtvimg.com/2023-06/5rfn5rvg_manipur-violence-ani_625x300_05_June_23.jpg",
+        "publishedAt": "2023-08-10T15:35:44Z",
+        "content": "Ethnic violence broke out in Manipur on May 3 (File)\r\nGuwahati: Ten Kuki MLAs have requested Prime Minister Narendra Modi not to remove the Assam Rifles (AR) from Manipur.\r\nRecently, the Manipur unit… [+3453 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": null,
+        "title": "Modi assures peace for Manipur; no confidence motion defeated",
+        "description": "While the NDA MPs thumped their desks and cheered the PM, he mocked the Opposition, saying every time they move a no-confidence motion, like they did in 2018, it “turns auspicious” for him.",
+        "url": "https://www.thehindubusinessline.com/todays-paper/tp-economy/modi-assures-peace-for-manipur-no-confidence-motion-defeated/article67181152.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/9vt926/article67181362.ece/alternates/LANDSCAPE_1200/PTI08_10_2023_000293A.jpg",
+        "publishedAt": "2023-08-10T15:32:56Z",
+        "content": "While the NDA MPs thumped their desks and cheered the PM, he mocked the Opposition, saying every time they move a no-confidence motion, like they did in 2018, it turns auspicious for him. This time t… [+1562 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Shishir Sinha",
+        "title": "Modi assures peace for Manipur; no confidence motion defeated",
+        "description": "While the NDA MPs thumped their desks and cheered the PM, he mocked the Opposition, saying every time they move a no-confidence motion, like they did in 2018, it “turns auspicious” for him.",
+        "url": "https://www.thehindubusinessline.com/news/modi-assures-peace-for-manipur-no-confidence-motion-defeated/article67181152.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/tp5qo3/article67181362.ece/alternates/LANDSCAPE_1200/PTI08_10_2023_000293A.jpg",
+        "publishedAt": "2023-08-10T15:32:56Z",
+        "content": "While the NDA MPs thumped their desks and cheered the PM, he mocked the Opposition, saying every time they move a no-confidence motion, like they did in 2018, it turns auspicious for him. This time t… [+1562 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Brendan Ahern, Senior Contributor, \n Brendan Ahern, Senior Contributor\n https://www.forbes.com/sites/brendanahern/",
+        "title": "Alibaba Beats Estimates On Q2 Earnings",
+        "description": "Asian equities were mixed overnight on lighter volumes as Mainland China outperformed.",
+        "url": "https://www.forbes.com/sites/brendanahern/2023/08/10/alibaba-beats-estimates-on-q2-earnings/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d4fe734342a9d4e4d9eed6/0x0.jpg?format=jpg&width=1200",
+        "publishedAt": "2023-08-10T15:32:36Z",
+        "content": "China Last Night\r\nKraneShares\r\nAlibaba Q2 Earnings Overview\r\nAlibaba released its Q2 results this morning before the US open. The results were overwhelmingly positive, and management did a good job k… [+4169 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Dairy Alternative Plant Milk Beverages Market to grow by USD 10,586.05 million between 2022 - 2027",
+        "description": "Plant-based milk Drive Demand NEW YORK, Aug. 10, 2023 /PRNewswire/ -- The Dairy Alternative Plant Milk Beverages Market is projected to grow by USD 10,586.05 million at a CAGR of 7.95% during the forecast period 2022 to 2027. The market's comprehensive report…",
+        "url": "https://www.prnewswire.com/news-releases/dairy-alternative-plant-milk-beverages-market-to-grow-by-usd-10-586-05-million-between-2022--2027--301897236.html",
+        "urlToImage": "https://mma.prnewswire.com/media/2182719/Technavio_Global_Dairy_Alternative_Plant_Milk_Beverages_Infographic.jpg?p=facebook",
+        "publishedAt": "2023-08-10T15:30:00Z",
+        "content": "Plant-based milk Drive Demand\r\nNEW YORK, Aug. 10, 2023 /PRNewswire/ -- The Dairy Alternative Plant Milk Beverages Market is projected to grow by USD 10,586.05 million at a CAGR of 7.95% during the fo… [+4971 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GlobeNewswire"
+        },
+        "author": "SkyQuest Technology Consulting Pvt. Ltd.",
+        "title": "Remote Patient Monitoring Devices Market to Surpass 28.85 Billion by 2030 Drives Due to Increase in the Elderly Population",
+        "description": "SkyQuest projects that the remote patient monitoring devices market will attain a value of USD 28.85 billion by 2030, with a CAGR of 18.5% over the forecast period (2023-2030). The increase in the global elderly population, as estimated by the World Health Or…",
+        "url": "https://www.globenewswire.com/news-release/2023/08/10/2722942/0/en/Remote-Patient-Monitoring-Devices-Market-to-Surpass-28-85-Billion-by-2030-Drives-Due-to-Increase-in-the-Elderly-Population.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/c673c6fa-f0e7-47bf-8490-fe528c593820",
+        "publishedAt": "2023-08-10T15:30:00Z",
+        "content": "Westford USA, Aug. 10, 2023 (GLOBE NEWSWIRE) -- According to SkyQuest, the growing prevalence of chronic diseases, including heart disease and diabetes, among the patient population is poised to driv… [+6525 chars]"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Jeffrey Kluger",
+        "title": "Russia Is About To Launch Its First Moon Rocket In Nearly 50 Years",
+        "description": "Russia is racing a lunar rocket from India to see which country will reach the moon's south pole first.",
+        "url": "https://time.com/6303012/russia-new-moon-rocket/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/08/russia-luna-25-moon.jpg?quality=85",
+        "publishedAt": "2023-08-10T15:29:41Z",
+        "content": "The last time Russia sent a spacecraft to the moon, Gerald Ford was in the White House, Elton Johns Dont Go Breaking My Heart, was the U.S.s number one hit, and a gallon of gas cost ¢0.57. That space… [+6315 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Karur Vsysa Bank raises lending rate by 0.15 per cent",
+        "description": "The External Benchmark Rate - Repo linked (EBR-R) of the bank would be revised from 9.60 per cent to 9.75 per cent, it said. The Monetary Policy Committee (MPC) has decided to keep the policy repo rate unchanged at 6.50 per cent with preparedness to act, shou…",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/karur-vsysa-bank-raises-lending-rate-by-0-15-per-cent/articleshow/102616600.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102616600,width-1070,height-580,imgsize-79948,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:28:24Z",
+        "content": "Carrier 1.5 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,High Density Filter, Auto Cleanser, 2023 Model,ESTER Exi - CAI18ER3R32F0,White)\r\nBuy Now"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Air India is not just another biz for us, it is passion: Tata Sons Chairman",
+        "description": "There is a lot of hard work needed but the path is clear for the airline, N Chandrasekaran, who is also the Chairman of Air India said.",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-is-not-just-another-biz-for-us-it-is-passion-tata-sons-chairman/articleshow/102616595.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102616635,width-1070,height-580,imgsize-117496,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:28:14Z",
+        "content": "Carrier 1.5 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,High Density Filter, Auto Cleanser, 2023 Model,ESTER Exi - CAI18ER3R32F0,White)\r\nBuy Now"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Now",
+        "title": "Air India's new logo unveiled: N. Chandrasekaran says it signifies 'limitless possibilities'",
+        "description": "Air India unveiled its new logo on Thursday which signifies limitless possibilities. The Tata-owned airline has been working on the new logo for as many as 15 months. It will replace the old logo of a red swan and orange spokes inside the swan, inspired by th…",
+        "url": "https://economictimes.indiatimes.com/news/et-tv/air-indias-new-logo-unveiled-n-chandrasekaran-says-it-signifies-limitless-possibilities/videoshow/102616592.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-102616592,width-1070,height-580,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:28:06Z",
+        "content": "Air India unveiled its new logo on Thursday which signifies limitless possibilities. The Tata-owned airline has been working on the new logo for as many as 15 months. It will replace the old logo of … [+75 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Now",
+        "title": "Air India's new logo unveiled: N. Chandrasekaran says it signifies 'limitless possibilities'",
+        "description": "Air India unveiled its new logo on Thursday which signifies limitless possibilities. The Tata-owned airline has been working on the new logo for as many as 15 months. It will replace the old logo of a red swan and orange spokes inside the swan, inspired by th…",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-indias-new-logo-unveiled-n-chandrasekaran-says-it-signifies-limitless-possibilities/videoshow/102616589.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-102616589,width-1070,height-580,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:28:06Z",
+        "content": "Air India unveiled its new logo on Thursday which signifies limitless possibilities. The Tata-owned airline has been working on the new logo for as many as 15 months. It will replace the old logo of … [+75 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Air India unveils new logo in rebranding push under Tata Group - Reuters",
+        "description": "Air India unveils new logo in rebranding push under Tata Group  Reuters",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2Fpci1pbmRpYS11bnZlaWxzLW5ldy1sb2dvLXJlYnJhbmRpbmctcHVzaC11bmRlci10YXRhLWdyb3VwLTIwMjMtMDgtMTAv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:28:00Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Loyaltylobby.com"
+        },
+        "author": "John Ollila",
+        "title": "Air India Unveils New Brand Identity & Livery",
+        "description": "Air India has unveiled its new brand identity and livery that you will see in all future and refurbished aircraft. The airline will have its first A350 in December when it will receive its first Airbus A350 aircraft. Air India will refurbish its existing wide…",
+        "url": "https://loyaltylobby.com/2023/08/10/air-india-unveils-new-brand-identity-livery/",
+        "urlToImage": "https://cdn.loyaltylobby.com/wp-content/uploads/2023/08/Air-India.png",
+        "publishedAt": "2023-08-10T15:26:51Z",
+        "content": "Air India has unveiled its new brand identity and livery that you will see in all future and refurbished aircraft.\r\nThe airline will have its first A350 in December when it will receive its first Air… [+703 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "barrons.com",
+        "title": "Verizon Strengthens Business Group with India Partnership",
+        "description": "Verizon Communications ‘ Business division announced a partnership with one of India’s largest IT services firms on Thursday, boosting revenue prospects for the segment.",
+        "url": "https://biztoc.com/x/30f2f2862662fd58",
+        "urlToImage": "https://c.biztoc.com/p/30f2f2862662fd58/s.webp",
+        "publishedAt": "2023-08-10T15:26:08Z",
+        "content": "Verizon Communications Business division announced a partnership with one of Indias largest IT services firms on Thursday, boosting revenue prospects for the segment.\r\nThis story appeared on barrons.… [+5 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "CUE API",
+        "title": "No-confidence motion against NDA government defeated in Lok Sabha",
+        "description": "NDA govt led by PM Modi defeats no-confidence motion in Lok Sabha with voice vote. Opposition moved motion on July 26. NDA has commendable majority of 331 MPs, while Opposition bloc I.N.D.I.A has 144. PM Modi's speech tore into Congress, saying people of Indi…",
+        "url": "https://www.thehindubusinessline.com/news/no-confidence-motion-against-nda-government-defeated-in-lok-sabha/article67181288.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-states/88lvie/article67178063.ece/alternates/LANDSCAPE_1200/Government-urge%2BGEFBJJPL3.4.jpg.jpg",
+        "publishedAt": "2023-08-10T15:26:01Z",
+        "content": "The no-confidence motion moved by the Opposition against the NDA government led by Prime Minister Narendra Modi was defeated in the Lok Sabha on Thursday. \r\nThe NDA defeated the no-confidence motion … [+2871 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Moneycontrol"
+        },
+        "author": "Abhishek Shingare",
+        "title": "Ingersoll Rand Standalone June 2023 Net Sales at Rs 304.53 crore, up 11.46% Y-o-Y",
+        "description": "NULL",
+        "url": "https://www.moneycontrol.com/news/business/earnings/ingersoll-rand-standalone-june-2023-net-sales-at-rs-304-53-crore-up-11-46-y-o-y-11150881.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg",
+        "publishedAt": "2023-08-10T15:25:38Z",
+        "content": "Reported Standalone quarterly numbers for Ingersoll Rand (India) are:Net Sales at Rs 304.53 crore in June 2023 up 11.46% from Rs. 273.23 crore in June 2022.\r\nQuarterly Net Profit at Rs. 53.73 crore i… [+391 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Sebi clarifies on 120 untraceable entities in 'difficult to recover' category",
+        "description": "Moreover, out of 120 entities, 116 cases are old (97 per cent) and the violation period dates back to over a decade ago, the Securities and Exchange Board of India (Sebi) said in a statement.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clarifies-on-120-untraceable-entities-in-difficult-to-recover-category/articleshow/102616497.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102617284,width-1070,height-580,imgsize-537196,overlay-etmarkets/photo.jpg",
+        "publishedAt": "2023-08-10T15:24:59Z",
+        "content": "New Delhi: Capital markets regulator Sebi on Thursday said 120 entities listed as untraceable in the 'difficult to recover' category comprises only five companies while the rest are individuals and t… [+1931 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": "Press Trust of India",
+        "title": "Bajrang, Vinesh Trying To Ensure Sanjay Doesn't Become WFI Chief: Report",
+        "description": "India's top grapplers Bajrang Punia, Vinesh Phogat and Sakshi Malik are reportedly making a last-ditch effort to ensure Brij Bhushan Sharan Singh's close aide, Sanjay Singh, does not become the Wrestling Federation of India chief.",
+        "url": "https://sports.ndtv.com/wrestling/bajrang-vinesh-making-efforts-to-ensure-sanjay-singh-doesnt-become-wfi-chief-source-4287481",
+        "urlToImage": "https://c.ndtvimg.com/2023-05/jq1th9l_vinesh-phogat_640x480_04_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+        "publishedAt": "2023-08-10T15:23:29Z",
+        "content": "India's top grapplers Bajrang Punia, Vinesh Phogat and Sakshi Malik are reportedly making a last-ditch effort to ensure Brij Bhushan Sharan Singh's close aide, Sanjay Singh, does not become the Wrest… [+5218 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "Commentator \"Puzzled\" By Discussion On Varma Missing 50. ABD's Reply Viral",
+        "description": "Hardik Pandya's act of hitting a six in the third T20I against West Indies with Tilak Varma batting on 49* was criticised on social media",
+        "url": "https://sports.ndtv.com/west-indies-vs-india-2023/sports-commentator-harsha-bhogle-is-puzzled-by-discussion-on-tilak-varma-missing-50-in-t20i-vs-wi-ab-de-villiers-reply-is-gold-4287602",
+        "urlToImage": "https://c.ndtvimg.com/2023-08/rd1hruog_tilak-varma-hardik-pandya_625x300_09_August_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+        "publishedAt": "2023-08-10T15:23:02Z",
+        "content": "Hardik Pandya, who is the captain of the Indian cricket team in the ongoing T20I series against West Indies, was subjected to plenty of criticism on social media after the third T20I on Tuesday. Desp… [+1383 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "ayork@insider.com (Alexandra York,Josée Rose)",
+        "title": "I'm a 25-year-old with 2 master's degrees and $131,000 in student debt. I just left Paris and am getting ready to travel to Asia.",
+        "description": "Hayley studied in Paris for two years. She mostly limited her spending to prioritize travel. Now she's about to head to India with $200 to her name.",
+        "url": "https://www.businessinsider.com/student-in-paris-france-cost-of-living-debt-2023-8",
+        "urlToImage": "https://i.insider.com/64d15c4420f1cf0019cc84ce?width=1200&format=jpeg",
+        "publishedAt": "2023-08-10T15:22:57Z",
+        "content": "Hayley is a 25-year-old from Kalamazoo, Michigan, who has two master's degrees. She recently left Paris and is getting ready to travel to India and beyond. She broke down her biggest spending categor… [+10861 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Nirav means silent in pure Hindi, didn't insult PM Modi: Adhir Ranjan - Hindustan Times",
+        "description": "<ol><li>Nirav means silent in pure Hindi, didn't insult PM Modi: Adhir Ranjan  Hindustan Times\r\n</li><li>Congress' Adhir Chowdhury Suspended From Lok Sabha Over 'Misconduct'  NDTV\r\n</li><li>Adhir Ji Master At Turning Gur To Gobar: PM Modi's Dig At Congress Le…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9uaXJhdi1tZWFucy1zaWxlbnQtaW4tcHVyZS1oaW5kaS1kaWRudC1pbnN1bHQtcG0tbW9kaS1hZGhpci1yYW5qYW4tMTAxNjkxNjgwNTQ0OTIyLmh0bWzSAYUBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvbmlyYXYtbWVhbnMtc2lsZW50LWluLXB1cmUtaGluZGktZGlkbnQtaW5zdWx0LXBtLW1vZGktYWRoaXItcmFuamFuLTEwMTY5MTY4MDU0NDkyMi1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:22:18Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "statista.com",
+        "title": "Most World Leaders Earn Poor Approval Scores in 2023",
+        "description": "Out of the 22 world leaders included in a release by Morning Consult, only six can currently claim positive net approval ratings - meaning that more people in their country approve of them than disapprove. The exceptions are Prime Ministers Narendra Modi, Ant…",
+        "url": "https://biztoc.com/x/61efe442ab3053c2",
+        "urlToImage": "https://c.biztoc.com/p/61efe442ab3053c2/s.webp",
+        "publishedAt": "2023-08-10T15:22:08Z",
+        "content": "Out of the 22 world leaders included in a release by Morning Consult, only six can currently claim positive net approval ratings - meaning that more people in their country approve of them than disap… [+309 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "'UPA ka kriyakaram kiya hai': PM mocks Oppnn's I-N-D-I-A allaince",
+        "description": "During the No-confidence motion in Lok Sabha on August 10, 2023, PM Modi took a jab at the newly formed alliance in India by saying they have performed the last rites of UPA.",
+        "url": "https://economictimes.indiatimes.com/news/et-tv/upa-ka-kriyakaram-kiya-hai-pm-mocks-oppnns-i-n-d-i-a-allaince/videoshow/102616387.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-102616387,width-1070,height-580,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:21:26Z",
+        "content": "During the No-confidence motion in Lok Sabha on August 10, 2023, PM Modi took a jab at the newly formed alliance in India by saying they have performed the last rites of UPA."
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "'UPA ka kriyakaram kiya hai': PM mocks Oppnn's I-N-D-I-A alliance",
+        "description": "During the No-confidence motion in Lok Sabha on August 10, 2023, PM Modi took a jab at the newly formed alliance in India by saying they have performed the last rites of UPA.",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/upa-ka-kriyakaram-kiya-hai-pm-mocks-oppnns-i-n-d-i-a-allaince/videoshow/102616384.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-102616384,width-1070,height-580,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:21:26Z",
+        "content": "During the No-confidence motion in Lok Sabha on August 10, 2023, PM Modi took a jab at the newly formed alliance in India by saying they have performed the last rites of UPA."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GlobeNewswire"
+        },
+        "author": "ReportLinker",
+        "title": "Asia Pacific Fruits And Vegetables Juice Market Size & Share Analysis - Growth Trends & Forecasts (2023 - 2028)",
+        "description": "The Asia Pacific Fruits and Vegetables Juice Market size is expected to grow from USD 26.98 billion in 2023 to USD 32.82 billion by 2028, at a CAGR of 4% during the forecast period (2023-2028). In the Asia-Pacific region, the growth in the fruit and vegetable…",
+        "url": "https://www.globenewswire.com/news-release/2023/08/10/2722931/0/en/Asia-Pacific-Fruits-And-Vegetables-Juice-Market-Size-Share-Analysis-Growth-Trends-Forecasts-2023-2028.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/3e0b82c2-02d7-44c8-b22f-561e0f321f39",
+        "publishedAt": "2023-08-10T15:21:00Z",
+        "content": "New York, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Asia Pacific Fruits And Vegetables Juice Market Size &amp; Share Analysis - Growth Trends &amp; Forec… [+5488 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sweta Kaushal, Contributor, \n Sweta Kaushal, Contributor\n https://www.forbes.com/sites/swetakaushal/",
+        "title": "India Box Office: ‘Rocky Aur Rani Kii Prem Kahaani’ Crosses $25 Million In Two Weeks",
+        "description": "India Box office report: A look at how the Hindi film 'Rocky Aur Rani Kii Prem Kahaani' fared at the ticket windows in 14 days.",
+        "url": "https://www.forbes.com/sites/swetakaushal/2023/08/10/india-box-office-rocky-aur-rani-kii-prem-kahaani-crosses-25-million-in-two-weeks/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d4f855c804018803b1ea41/0x0.jpg?format=jpg&crop=545,306,x16,y0,safe&width=1200",
+        "publishedAt": "2023-08-10T15:20:20Z",
+        "content": "Ranveer Singh, Alia Bhatt on a poster for the Hindi film 'Rocky Aur Rani Kii Prem Kahaani'.\r\nDharma Productions\r\nRanveer Singh and Alia Bhatts new Hindi film Rocky Aur Rani Kii Prem Kahaani has made … [+2839 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "KR Srivats",
+        "title": "LIC records multifold jump in Q1 profit at ₹9,544 crore on higher net interest income",
+        "description": "Aided by sharp increase in net investment income, Insurance behemoth Life Insurance Corporation of India (LIC) on Thursday reported a multifold increase in net profit for the first quarter ended June 30, 2023 at ₹9,544 crore (₹683 crore)",
+        "url": "https://www.thehindubusinessline.com/companies/lic-records-multifold-jump-in-q1-profit-at-9544-crore-on-higher-net-interest-income/article67181230.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/tl5fp0/article67181281.ece/alternates/LANDSCAPE_1200/2023-04-28T121139Z_1249731617_RC2VWT9T38RP_RTRMADP_3_INDIA-LIC-APPOINTMENT.JPG",
+        "publishedAt": "2023-08-10T15:20:14Z",
+        "content": "Aided by sharp increase in net investment income, Insurance behemoth Life Insurance Corporation of India (LIC) on Thursday reported a multifold increase in net profit for the first quarter ended June… [+2644 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "KR Srivats",
+        "title": "LIC Q1 net jumps multifold to ₹9,544 crore on higher net interest income",
+        "description": "Aided by sharp increase in net investment income, Insurance behemoth Life Insurance Corporation of India (LIC) on Thursday reported a multifold increase in net profit for the first quarter ended June 30, 2023 at ₹9,544 crore (₹683 crore)",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/lic-records-multifold-jump-in-q1-profit-at-9544-crore-on-higher-net-interest-income/article67181230.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/tl5fp0/article67181281.ece/alternates/LANDSCAPE_1200/2023-04-28T121139Z_1249731617_RC2VWT9T38RP_RTRMADP_3_INDIA-LIC-APPOINTMENT.JPG",
+        "publishedAt": "2023-08-10T15:20:14Z",
+        "content": "Aided by a sharp increase in net investment income, insurance behemoth Life Insurance Corporation of India (LIC) on Thursday reported a multifold increase in net profit for the first quarter ended Ju… [+2781 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Karishma Vanjani",
+        "title": "Verizon Strengthens Business Group with India Partnership",
+        "description": "The deal with HCLTech, which became India's third-largest IT company surpassing Wipro last year, falls within the Global Enterprise segment of Verizon Business group.",
+        "url": "https://www.barrons.com/articles/verizon-stock-price-partnership-4995985c",
+        "urlToImage": "https://images.barrons.com/im-473028/social",
+        "publishedAt": "2023-08-10T15:20:02Z",
+        "content": "Verizon Communications\r\n Business division announced a partnership with one of Indias largest IT services firms on Thursday, boosting revenue prospects for the segment. Verizon\r\n Business said its co… [+1654 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Developed nations overconsuming carbon budget; very little left for countries like India: Govt",
+        "description": "Rich nations are \"eating into even this reduced entitlement\" for India. Despite this, India has chosen to walk its climate talk, conscious of the need to pioneer a sustainable development pathway for the entire globe, while attending to the needs and aspirati…",
+        "url": "https://economictimes.indiatimes.com/news/india/developed-nations-overconsuming-carbon-budget-very-little-left-for-countries-like-india-govt/articleshow/102616343.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102616343,width-1070,height-580,imgsize-37514,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:19:55Z",
+        "content": "Developed countries have consumed more than 80 per cent of the global carbon budget, leaving countries like India with very little carbon space for the future, the government said on Thursday. Respon… [+4237 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gazeta.ru"
+        },
+        "author": "Газета.Ru",
+        "title": "Индийские депутаты решили не объявлять вотум недоверия правительству",
+        "description": "Депутаты нижней палаты парламента Индии (Лок Сабха) выступили против выражения вотума недоверия правительству, инициированный оппозицией. Об этом сообщает газета Times of India.\n\n\"Лок Сабха отклонил вотум недоверия голосованием\", ...",
+        "url": "https://www.gazeta.ru/politics/news/2023/08/10/21048458.shtml",
+        "urlToImage": "https://img.gazeta.ru/files3/89/16334089/AP23055455387383-pic_32ratio_900x600-900x600-6045.jpg",
+        "publishedAt": "2023-08-10T15:19:24Z",
+        "content": ": .Ru (Gazeta.Ru)\r\n: «.», 1067761730376, 7743625728\r\n : 125239, , , , 67\r\n:\r\n117105,\r\n. ,\r\n , .9, .1"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Atanu Biswas",
+        "title": "Tardiness versus punctuality: The eternal debate",
+        "description": "‘Time blindness’ is now considered a disorder, but how far will employers go to accommodate staff for tardiness?",
+        "url": "https://www.thehindubusinessline.com/opinion/tardiness-versus-punctuality-the-eternal-debate/article67181284.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/usll9o/article67181295.ece/alternates/LANDSCAPE_1200/PO06_Time_management.jpg",
+        "publishedAt": "2023-08-10T15:18:35Z",
+        "content": "A few years back, I read something with a catchy title that advised against being punctual, but in favour of being a little early. It was asserted that winners had an extraordinary habit of reaching … [+3793 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Air India's New Red-Aubergine-Gold Look In 5 Points",
+        "description": "Air India, a private airline after the Tata Group takeover last year, unveiled its new logo and livery today. The rebranding was launched by Air India's CEO Campbell Wilson.",
+        "url": "https://www.ndtv.com/india-news/air-indias-new-red-aubergine-gold-look-in-5-points-4287581",
+        "urlToImage": "https://c.ndtvimg.com/2023-08/a603maio_air-india-new-look_625x300_10_August_23.jpg",
+        "publishedAt": "2023-08-10T15:17:36Z",
+        "content": "Air India is spending a whopping $400 million to refurbish its fleet, its CEO said\r\nNew Delhi: Air India, a private airline after the Tata Group takeover last year, unveiled its new logo and livery t… [+1767 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Dagospia.com"
+        },
+        "author": null,
+        "title": "VLAD, STATT' ALLA CASA – PUTIN STAREBBE VALUTANDO DI PARTECIPARE IN PRESENZA AL G20 IN INDIA, A SETTEMBRE: SAREBBE IL SUO PRIMO INCONTRO DI PERSONA CON I LEADER OCCIDENTALI DALL’INVASIONE DELL’UCRAINA – NON RISCHIEREBBE DI ESSERE ARRESTATO, NONOSTANTE IL MANDATO DI CATTURA INTERNAZIONALE, PERCHÉ NUOVA DELHI (COME USA, RUSSIA, CINA E ALTRI) NON HA MAI FIRMATO LO STATUTO DI ROMA. MA IL VIAGGIO SAREBBE COMUNQUE UN RISCHIO PER LO ZAR, PERCHÉ…",
+        "description": "NARENDRA MODI VLADIMIR PUTIN (ANSA) - Il presidente russo Vladimir Putin sta valutando se partecipare in presenza al G20 in programma a settembre in India, in quello che sarebbe il suo primo incontro di persona con i leader occidentali da quando le sue forze …",
+        "url": "https://www.dagospia.com/rubrica-29/cronache/vlad-statt-39-casa-ndash-putin-starebbe-valutando-partecipare-363351.htm",
+        "urlToImage": "https://cdn-static.dagospia.com/img/patch/07-2023/il-dito-medio-di-vladimir-putin-1858325.jpg",
+        "publishedAt": "2023-08-10T15:15:10Z",
+        "content": "VLAD, STATT' ALLA CASA – PUTIN STAREBBE VALUTANDO DI PARTECIPARE IN PRESENZA AL G20 IN INDIA, A SETTEMBRE: SAREBBE IL SUO PRIMO INCONTRO DI PERSONA CON I LEADER OCCIDENTALI DALL’INVASIONE DELL’UCRAIN… [+1184 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "India central bank to withdraw 1 trln rupees via incremental CRR",
+        "description": "FILE PHOTO: Reserve Bank of India logo is seen at the gate of its office in New Delhi MUMBAI (Reuters) -The Reserve Bank of India (RBI) will withdraw nearly one trillion rupees ($12.07 billion) from the banking system through a temporary increase in the amoun…",
+        "url": "https://biztoc.com/x/043409f926e5e0b4",
+        "urlToImage": "https://c.biztoc.com/p/043409f926e5e0b4/s.webp",
+        "publishedAt": "2023-08-10T15:14:03Z",
+        "content": "FILE PHOTO: Reserve Bank of India logo is seen at the gate of its office in New DelhiMUMBAI (Reuters) -The Reserve Bank of India (RBI) will withdraw nearly one trillion rupees ($12.07 billion) from t… [+291 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Sudhanshu  Mani",
+        "title": "Are rail investments on the right track?",
+        "description": "STATION REVAMP. This is fine but should be marked by a clear idea of what stations are all about. Railways also has competing priorities",
+        "url": "https://www.thehindubusinessline.com/opinion/are-rail-investments-on-the-right-track/article67181259.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/c8ooul/article67181266.ece/alternates/LANDSCAPE_1200/IMG_Egmore_Rly_Station_2_1_UBAEE9SA.jpg",
+        "publishedAt": "2023-08-10T15:13:56Z",
+        "content": "On August 6, the Prime Minister launched revamp of 508 railway stations across India at an estimated cost of 24,470 crore, including Mumbai CSTM at 1,813 crore, Surat at 980 crore and Egmore at 842 c… [+4951 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "Livemint",
+        "title": "As Air India rebrands itself, a look at six key investments made by the airline",
+        "description": "Air India News: In order to improve its customer service and solidify its position as the go-to airline for passengers flying to, from, and within India, Air India is making large investments across the board. Here's are six key investments made by the airlin…",
+        "url": "https://www.livemint.com/companies/news/as-air-india-rebrands-itself-a-look-at-six-key-investments-made-by-the-airline-11691679708924.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/air_1691676589099_1691680002801.jpg",
+        "publishedAt": "2023-08-10T15:13:33Z",
+        "content": "Tata-backed Air India unveiled its new brand identity on Thursday under its transformation journey. The airline's new logo includes a modern design with golden, red and purple colours. The Vista, the… [+3269 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Corriere.it"
+        },
+        "author": "Alessia Conzonato",
+        "title": "Succo d’arancia, prezzo raddoppiato e ai massimi: colpa degli uragani in Florida",
+        "description": "Il succo di arancia ha raggiunto il massimo livello di prezzo: i futures a quota 3 dollari a libbra (rispetto a 1,76 dello scorso anno) perché in Florida, dove si concentra la maggiore produzione, gli alberi sono stati devastati da malattie infettive e uragani",
+        "url": "https://www.corriere.it/economia/consumi/23_agosto_10/succo-d-arancia-prezzo-raddoppiato-massimi-colpa-uragani-florida-8e01c8b4-376c-11ee-9948-9111a8f29e75.shtml",
+        "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/08/10/379fe8ee-378e-11ee-9948-9111a8f29e75.jpg",
+        "publishedAt": "2023-08-10T15:13:14Z",
+        "content": "Il succo di arancia ha raggiunto il massimo livello mai visto prima. I futures sul prodotto sono a quota 3 dollari a libbra. Lo scorso anno, nello stesso periodo, si attestavano a 1,76 dollari. Perch… [+3067 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Verizon Strengthens Business Group with India Partnership - Barron's",
+        "description": "Verizon Strengthens Business Group with India Partnership  Barron's",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL3Zlcml6b24tc3RvY2stcHJpY2UtcGFydG5lcnNoaXAtNDk5NTk4NWPSAU1odHRwczovL3d3dy5iYXJyb25zLmNvbS9hbXAvYXJ0aWNsZXMvdmVyaXpvbi1zdG9jay1wcmljZS1wYXJ0bmVyc2hpcC00OTk1OTg1Yw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:12:00Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Our Bureau",
+        "title": "Incremental CRR to exert upward pressure on deposit and lending rates",
+        "description": "With the Reserve Bank of India (RBI) asking Banks to temporarily maintain incremental cash reserve ratio (I-CRR), there could be tighter liquidity conditions in the banking system, leading to some upward pressure on both credit and deposit rates",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/incremental-crr-to-exert-upward-pressure-on-deposit-and-lending-rates/article67181204.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/6km2r7/article67181257.ece/alternates/LANDSCAPE_1200/IMG_PF_TAX_Query_co_G33B_2_1_HTBJDNB1.jpg",
+        "publishedAt": "2023-08-10T15:11:03Z",
+        "content": "With the Reserve Bank of India (RBI) asking Banks to temporarily maintain incremental cash reserve ratio (I-CRR), there could be tighter liquidity conditions in the banking system, leading to some up… [+2612 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "Livemint",
+        "title": "Container Corp Q1 results: Net profit dips over 17% at ₹246 crore, board approves dividend of ₹2 per share",
+        "description": "Revenue from operations drops 3.6% at  ₹ 1,922 crore, Container Corporation said",
+        "url": "https://www.livemint.com/companies/company-results/container-corp-q1-results-net-profit-dips-over-17-at-rs-246-crore-board-approves-dividend-of-rs-2-per-share-11691677547754.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/concor_1691680201652_1691680219124.png",
+        "publishedAt": "2023-08-10T15:10:49Z",
+        "content": "State-owned logistics operator Container Corporation of India on Thursday reported over 17% decline in net profit at  246 crore for the first quarter ended June 30 of fiscal year 2024. The company ha… [+1955 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Siddhartha Sanyal",
+        "title": "MPC’s pragmatic course",
+        "description": "No knee-jerk reaction by RBI to inflation is welcome",
+        "url": "https://www.thehindubusinessline.com/opinion/mpcs-pragmatic-course/article67181243.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/ls0l1t/article67181253.ece/alternates/LANDSCAPE_1200/NDBL-2-17-7-23.jpg",
+        "publishedAt": "2023-08-10T15:09:29Z",
+        "content": "The status quo on the policy rates by the Monetary Policy Committee (MPC) in August, albeit with abundant caution and a guidance of stronger vigil on inflation, was on expected lines. The MPC decisio… [+3647 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Surrender of sovereignty of J&K to India was \"absolutely complete\" with accession: SC",
+        "description": "Observing that once Article 1 of the Constitution says India shall be a Union of States, including Jammu and Kashmir, the transfer of sovereignty was complete in all respects, a five-judge constitution bench headed by Chief Justice DY Chandrachud said.",
+        "url": "https://economictimes.indiatimes.com/news/india/surrender-of-sovereignty-of-jk-to-india-was-absolutely-complete-with-accession-sc/articleshow/102616098.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102616150,width-1070,height-580,imgsize-15090,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:09:18Z",
+        "content": "The Supreme Court said on Thursday the surrender of Jammu and Kashmir's sovereignty to India was \"absolutely complete\" with the accession of the former princely state in October 1947, and it was \"rea… [+6961 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Opposition stages walkout during PM Modi’s address, says Manipur not mentioned in first 90 minutes of his speech - The Tribune India",
+        "description": "<ol><li>Opposition stages walkout during PM Modi’s address, says Manipur not mentioned in first 90 minutes of his speech  The Tribune India\r\n</li><li>Manipur conflict drags ‘messiah of the poor’ Narendra Modi down to earth  The Guardian\r\n</li><li>Here's What …",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy50cmlidW5laW5kaWEuY29tL25ld3MvbmF0aW9uL29wcG9zaXRpb24tc3RhZ2VzLXdhbGtvdXQtZHVyaW5nLXBtLW1vZGlzLWFkZHJlc3Mtc2F5LW1hbmlwdXItbm90LW1lbnRpb25lZC1pbi1maXJzdC05MC1taW51dGVzLW9mLWhpcy1zcGVlY2gtNTMzOTE50gGbAWh0dHBzOi8vbS50cmlidW5laW5kaWEuY29tL25ld3MvbmF0aW9uL29wcG9zaXRpb24tc3RhZ2VzLXdhbGtvdXQtZHVyaW5nLXBtLW1vZGlzLWFkZHJlc3Mtc2F5LW1hbmlwdXItbm90LW1lbnRpb25lZC1pbi1maXJzdC05MC1taW51dGVzLW9mLWhpcy1zcGVlY2gtNTMzOTE5?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:09:00Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Indian Express"
+        },
+        "author": "PTI",
+        "title": "Air India unveils new logo in rebranding push under Tata Group",
+        "description": "Air India's new logo symbol 'The Vista' is inspired by the peak of the gold window frame, signifying limitless possibilities, progressiveness, and the airline's bold, confident outlook for the future.",
+        "url": "https://indianexpress.com/article/business/aviation/air-india-unveils-new-logo-in-rebranding-push-under-tata-group-8886528/",
+        "urlToImage": "https://images.indianexpress.com/2023/08/PTI08_10_2023_000283B.jpg",
+        "publishedAt": "2023-08-10T15:08:26Z",
+        "content": "Air India on Thursday unveiled a new brand identity and aircraft livery as the airline moves ahead with its transformation plan since being taken over by Tata Group more than one-and-a-half years ago… [+2246 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Article 370 case: Integration of Jammu and Kashmir with India was not conditional but absolute, says Supreme Court - Bar & Bench - Indian Legal News",
+        "description": "<ol><li>Article 370 case: Integration of Jammu and Kashmir with India was not conditional but absolute, says Supreme Court  Bar & Bench - Indian Legal News\r\n</li><li>Supreme Court hearing on Article 370 abrogation | Day 5  The Hindu\r\n</li><li>Concurrence give…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmJhcmFuZGJlbmNoLmNvbS9uZXdzL2xpdGlnYXRpb24vYXJ0aWNsZS0zNzAtY2FzZS1pbnRlZ3JhdGlvbi1qYW1tdS1rYXNobWlyLXdpdGgtaW5kaWEtbm90LWNvbmRpdGlvbmFsLXN1cHJlbWUtY291cnTSAYkBaHR0cHM6Ly93d3cuYmFyYW5kYmVuY2guY29tL2FtcC9zdG9yeS9uZXdzL2xpdGlnYXRpb24vYXJ0aWNsZS0zNzAtY2FzZS1pbnRlZ3JhdGlvbi1qYW1tdS1rYXNobWlyLXdpdGgtaW5kaWEtbm90LWNvbmRpdGlvbmFsLXN1cHJlbWUtY291cnQ?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-10T15:08:11Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "RBI's decision on interest rate to support growth, check inflation: Industry",
+        "description": "The monetary policy committee (MPC), which has three members from the central bank and a similar number of external members, held the benchmark repurchase rate (repo) at 6.50 per cent in a unanimous decision. Commenting on RBI's decision, Ficci president Subh…",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/rbis-decision-on-interest-rate-to-support-growth-check-inflation-industry/articleshow/102616082.cms",
+        "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102616199,width-1070,height-580,imgsize-73644,overlay-economictimes/photo.jpg",
+        "publishedAt": "2023-08-10T15:07:14Z",
+        "content": "The Reserve Bank's decision to maintain the status quo on policy rate will support growth and keep inflation under check, said industry bodies and experts on Thursday. The Reserve Bank of India (RBI)… [+5451 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GlobeNewswire"
+        },
+        "author": "eXp Realty",
+        "title": "eXp Realty Exceeds 1,000-Agent Milestone in South Africa",
+        "description": "BELLINGHAM, Wash., Aug. 10, 2023 (GLOBE NEWSWIRE) -- eXp Realty®, “the most agent-centric real estate brokerage on the planet™” and the core subsidiary of eXp World Holdings, Inc. (Nasdaq: EXPI), today announced it has exceeded 1,000 agents across South Afric…",
+        "url": "https://www.globenewswire.com/news-release/2023/08/10/2722918/0/en/eXp-Realty-Exceeds-1-000-Agent-Milestone-in-South-Africa.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/474e37dc-8111-445f-a40d-6e14ec55cd01",
+        "publishedAt": "2023-08-10T15:06:00Z",
+        "content": "BELLINGHAM, Wash., Aug. 10, 2023 (GLOBE NEWSWIRE) -- eXp Realty®, the most agent-centric real estate brokerage on the planet and the core subsidiary of eXp World Holdings, Inc. (Nasdaq: EXPI), today … [+4150 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "Livemint",
+        "title": "Maharaja is an important part of Air India: CEO Campbell Wilson",
+        "description": "Air India Chief Executive Campbell Wilson on Thursday has said that the iconic mascot of the airline' The Maharaja' is an important part of the company and said that' Maharaja's demise is exaggerated'",
+        "url": "https://www.livemint.com/companies/news/maharaja-is-an-important-part-of-air-india-ceo-campbell-wilson-11691679640662.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/Air-India-logo_1637374664622_1691679685827.jpg",
+        "publishedAt": "2023-08-10T15:05:04Z",
+        "content": "The Tata-backed airline Air India on Thursday unveiled its new logo, replacing the previous \"Wheel of Konark\". While addressing the rebranding event, Tata Sons chairman N Chandrasekaran said that \"We… [+1630 chars]"
+    }
+]
