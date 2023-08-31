@@ -98,12 +98,12 @@ nav {
       .logo {
             filter: initial;
             margin-left: 1vw;
-            width: 25vw;
+            width: 35vw;
       }
 
       .icons img {
             filter: initial;
-            width: 3.5vw;
+            width: 5vw;
       }
 
       .menu {
@@ -113,7 +113,7 @@ nav {
            display: none;
       }
       .menu li {
-            font-size: 3vw;
+            font-size: 6vw;
       }
 
       
